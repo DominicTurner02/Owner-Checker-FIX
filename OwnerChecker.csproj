@@ -41,11 +41,11 @@
   <ItemGroup>
     <Reference Include="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\RocketMod 4\References\Unturned\Assembly-CSharp.dll</HintPath>
+      <HintPath>lib\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\RocketMod 4\References\Unturned\Assembly-CSharp-firstpass.dll</HintPath>
+      <HintPath>lib\Assembly-CSharp-firstpass.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-UnityScript-firstpass, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -68,13 +68,13 @@
     </Reference>
     <Reference Include="Rocket.Unturned, Version=4.9.3.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\RocketMod 4\References\Rocket\Rocket.Unturned.dll</HintPath>
+      <HintPath>lib\Rocket.Unturned.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\RocketMod 4\References\Unturned\UnityEngine.dll</HintPath>
+      <HintPath>lib\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="Unturned, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
