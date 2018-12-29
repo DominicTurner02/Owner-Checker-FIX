@@ -1,4 +1,4 @@
-Before Download this, please ensure you have updated the following Libraries:
+Before Downloading this, please ensure you have updated the following Libraries:
 
 - Assembly-CSharp.dll
 - Assembly-CSharp-firstpass.dll
